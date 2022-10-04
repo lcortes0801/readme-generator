@@ -19,7 +19,7 @@ Simple node.js application to automatically generate a project README.md from a 
 ![](./execution.gif)
 
 From the terminal type `node index.js` to start the application. Then answer a series of questions about the project.
-A full length, 1080p recording of the walk-through can be found [here](https://youtu.be/LDd4BZi33d4)
+A full length, 1080p recording of the walk-through can be found [here](https://drive.google.com/file/d/1-WKOQm9m0U-rpFaKUIiZshSVooQpOieY/view?usp=sharing)
 
 ## License
 ![badge](https://img.shields.io/badge/license-ISC-brightgreen)

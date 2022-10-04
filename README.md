@@ -1,8 +1,8 @@
-# 111
-![badge](https://img.shields.io/badge/license-Apache-brightgreen)
+# Professional README generator
+![badge](https://img.shields.io/badge/license-ISC-brightgreen)
 
 ## Description
-1111
+Simple node.js application to automatically generate a project README.md from a series of questions to the author.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -13,32 +13,35 @@
 - [Questions](#questions)
 
 ## Installation
-11111
+`npm install` to install all dependencies
 
 ## Usage
-11111
+![](./execution.gif)
+
+From the terminal type `node index.js` to start the application. Then answer a series of questions about the project.
+A full length, 1080p recording of the walk-through can be found [here](https://youtu.be/LDd4BZi33d4)
 
 ## License
-![badge](https://img.shields.io/badge/license-Apache-brightgreen)
+![badge](https://img.shields.io/badge/license-ISC-brightgreen)
 
-This application is covered under Apache license.
+This application is covered under ISC license.
 
 ## Contributing
-1111
+This is a public project. Everyone is invited to contribute to it. See the questions section for contact information.
 
 ## Tests
-1111
+No unit or integration tests were written.
 
 ## Questions
-111
+You can open issues on Github or directly contact the author.
 
-Contact Me
+Contact Information
 
-[![](http://www.github.com/11111.png?size=36) 11111](http://github.com/11111) on Github 
+[![](http://www.github.com/lcortes0801.png?size=36) lcortes0801](http://github.com/lcortes0801) on Github 
 
-[:email: qqqq@ddd.ccc](mailto:qqqq@ddd.ccc)
+[:email: lcortes0801@gmail.com](mailto:lcortes0801@gmail.com)
 
 
 <br/><br/>
 
-<span style="font-size:.75em">Made with [Markdown Generator](https://github.com/lcortes080/mdgen)</span>
+<span style="font-size:.75em">Made with [Markdown Generator](https://github.com/lcortes0801/mdgen)</span>

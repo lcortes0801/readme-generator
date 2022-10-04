@@ -1,0 +1,28 @@
+{
+  "name": "mdgen",
+  "version": "1.0.0",
+  "description": "Automatic README.md generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lcortes0801/mdgen.git"
+  },
+  "keywords": [
+    "markdown",
+    "md",
+    "generator",
+    "readme"
+  ],
+  "author": "jsardinas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lcortes0801/mdgen/issues"
+  },
+  "homepage": "https://github.com/lcortes0801/mdgen#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
